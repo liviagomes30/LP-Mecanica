@@ -1,0 +1,36 @@
+{
+  "name": "Lívia Gomes de Souza",
+  "age": 20,
+  "occupation": "Estudante de Sistemas de Informação e Suporte Técnico",
+  "skills": {
+    "programming_languages": ["C", "JavaScript", "Java", "HTML", "CSS"],
+    "databases": ["Oracle"],
+    "web_development": true,
+    "problem_solving": true
+  },
+  "interests": ["Desenvolvimento Web", "Front-End", "Programação"],
+  "education": {
+    "degree": "Bacharelado em Sistemas de Informação",
+    "institution": "Unoeste",
+    "year": "2026 (esperado)"
+  },
+  "achievements": [
+    "Primeira colocada no primeiro termo de Sistemas de Informação",
+    "Segunda colocada nos segundo e terceiro termos"
+  ],
+  "personal_traits": {
+    "analytical": true,
+    "creative": true,
+    "adaptable": true,
+    "proactive": true,
+    "empathetic": true,
+    "organized": true,
+    "good_communicator": true
+  },
+  "goals": [
+    "Projetar e construir websites responsivos e intuitivos.",
+    "Criar soluções inovadoras para automação de processos",
+    "Aprimorar conhecimentos em desenvolvimento web e algoritmos",
+    "Construir uma família"
+  ]
+}
